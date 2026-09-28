@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pro31\\source\\repos\\lab2\\lab2\\lab2.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\pro31\\source\\repos\\lab2\\lab2\\resource.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
